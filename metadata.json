@@ -1,0 +1,8 @@
+{
+  "name": "Copy of G-Play",
+  "description": "A vibrant party game and social hub powered by Gemini AI, featuring AI-driven 'Who is the Spy', real-time voice chat with AI hosts, and interactive social rooms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
